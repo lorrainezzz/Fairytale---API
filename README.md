@@ -122,4 +122,3 @@ User
 
 
 
-[datamodel]: ./img/sample_data_model.gif
